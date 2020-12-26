@@ -1,8 +1,8 @@
-### Hello, my name is Leon Chow and I am currently a 4th year Computer Science student at the Ontario Tech University
+### Hello, my name is Leon Chow 
 
+- 👯 I’m a 4th year computer science student looking forward to finishing my degree and pursuing a professional career in web/mobile development
 - 🔭 I’m currently learning and using MEAN stack to create some personal projects 
 - 🌱 I’m open to learning other widely used technologies
-- 👯 I’m looking forward to finishing my degree and pursuing a professional career in web/mobile development
 - 📫 You can contact with me via LinkedIn or Email
 
 ### Technical Skills
@@ -21,4 +21,4 @@
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/leon-chow/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://mail.google.com/mail/u/1/#inbox?compose=new"><img src="https://img.shields.io/badge/gmail-white.svg?&style=for-the-badge&logo=gmail&logoColor=red"></a>
+<a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSGLrfcVmXwFJLbkGHskbRqfSkMJCqCrBDkMtgvcWNpgfVcjSDjHQwjGqRmVHmvLHNBgJtTn"><img src="https://img.shields.io/badge/gmail-white.svg?&style=for-the-badge&logo=gmail&logoColor=red"></a>
