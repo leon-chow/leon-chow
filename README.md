@@ -3,7 +3,7 @@
 - 🔭 I’m currently learning and using MEAN stack to create some personal projects 
 - 🌱 I’m open to learning other widely used technologies
 - 👯 I’m looking forward to finishing my degree and pursuing a professional career in web/mobile development
-- 📫 You can contact me via LinkedIn or Email
+- 📫 You can contact with me via LinkedIn or Email
 
 ### Technical Skills
 <img src="https://img.shields.io/badge/-Angular-red"> <img src="https://img.shields.io/badge/-TypeScript-blue"> <img src="https://img.shields.io/badge/-NodeJS-gray">  
