@@ -6,7 +6,7 @@
 - 📫 You can contact with me via LinkedIn or Email
 
 ### Technical Skills
-<img src="https://img.shields.io/badge/-Angular-red"> <img src="https://img.shields.io/badge/-TypeScript-blue"> <img src="https://img.shields.io/badge/-NodeJS-gray">  
+<img src="https://img.shields.io/badge/Angular-white.svg?&style=flat-square&logo=angular&logoColor=darkred"> <img src="https://img.shields.io/badge/TypeScript-white.svg?&style=flat-square&logo=typescript&logoColor=blue"> <img src="https://img.shields.io/badge/NodeJS-gray.svg?&style=flat-square&logo=node&logoColor=blue">
 <img src="https://img.shields.io/badge/HTML-%23239120.svg?&style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-yellow"><img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white">
 
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=yellow"> <img src="https://img.shields.io/badge/Java-white.svg?&style=flat-square&logo=java&logoColor=orange"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white">
