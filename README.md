@@ -1,6 +1,6 @@
 ### Hello, my name is Leon Chow 
 
-- 👯 I’m a 4th year computer science student looking forward to finishing my degree and pursuing a professional career in web/mobile development
+- 👯 I’m a recent computer science graduate from the Ontario Tech University
 - 🔭 I’m currently learning and using MEAN stack to create some personal projects 
 - 🌱 I’m open to learning other widely used technologies
 - 📫 You can contact with me via LinkedIn or Email
