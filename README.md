@@ -1,6 +1,6 @@
 ### Hello, my name is Leon Chow 
 
-- 👯 I’m a full-stack developer interested in working all sorts of projects
+- 👯 I’m a full-stack developer interested in working on all sorts of projects
 - 🔭 I’m currently learning and using MEAN stack to create some personal projects 
 - 🌱 I’m open to learning other widely used technologies
 - 📫 You can contact with me via LinkedIn or Email
